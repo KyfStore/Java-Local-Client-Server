@@ -11,7 +11,7 @@ This will compile the code and build it. Once its done, it will automatically st
 
 ## How To Use
 
-Once the server is open you can see that the server GUI is open on port 3000 (**NOTE:** This does not mean it is hosted on `localhost:3000`, it is just a placeholder server ID! Feel free to change this property in the [Server.json](public\dependencies\server.json) file). You will notice that there will be a number of clients currently on your local server. 
+Once the server is open you can see that the server GUI is open on port 3000 (**NOTE:** This does not mean it is hosted on `localhost:3000`, it is just a placeholder server ID! Feel free to change this property in the [Server.json](public/dependencies/server.json) file). You will notice that there will be a number of clients currently on your local server. 
 
 ## How to add/remove clients from server
 
